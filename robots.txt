@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://heiceengei.cameogame.com/sitemap.xml
